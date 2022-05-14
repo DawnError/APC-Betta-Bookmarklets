@@ -64,9 +64,7 @@
         </a>
     </p>
     <h3>
-        <a href="https://dawnerror.github.io/APC-Betta-Page/">
+        <a href="https://dawnerror.github.io/APC-Betta-Page/" style=color:lightblue>
             APC-Betta-Page
         </a>
     </h3>
-    
-    
