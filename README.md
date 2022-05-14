@@ -66,8 +66,8 @@
 <h2>
     Return To Main Menu:
     </h2>
-    <p>
+    <h3>
     <a href="https://dawnerror.github.io/APC-Betta-Page/">
         APC-Betta-Page
     </a>
-    </p>
+    </h3>
